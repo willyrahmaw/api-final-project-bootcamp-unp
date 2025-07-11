@@ -1,5 +1,10 @@
 # Final Project: API Service with Express, MongoDB, JWT, PM2, and NGINX
-
+---
+## Resume
+https://www.notion.so/Resume-22d79bf33ad68070b710e63ed3027563?source=copy_link
+## Portofolio
+https://willyrw.vercel.app/
+---
 ## 📌 Deskripsi
 Proyek ini adalah API service sederhana menggunakan **Node.js (Express)** dan **MongoDB** untuk menangani data user. Fitur utama mencakup:
 
