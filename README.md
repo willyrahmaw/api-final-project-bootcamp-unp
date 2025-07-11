@@ -83,9 +83,10 @@ Authorization: Bearer <your_token>
 - Untuk lokal (via WSL), gunakan **Ngrok**
 
 ---
-## ✅ Deployment
-<img src="pm2.png" width="400"/>
+## ✅ PM2 Status
+<img src="pm2.png" width="700"/>
 ---
+
 ## 👨‍💻 Author
 Willy Rahma W  
 Bootcamp UNP Final Project
