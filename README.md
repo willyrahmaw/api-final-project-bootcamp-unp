@@ -85,5 +85,5 @@ Authorization: Bearer <your_token>
 ---
 
 ## 👨‍💻 Author
-Willy Rahmawan  
+Willy Rahma W  
 Bootcamp UNP Final Project
