@@ -84,7 +84,7 @@ Authorization: Bearer <your_token>
 
 ---
 ## ✅ Deployment
-<img src="pm2status.png" width="400"/>
+<img src="pm2.png" width="400"/>
 ---
 ## 👨‍💻 Author
 Willy Rahma W  
